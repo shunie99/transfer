@@ -1,0 +1,1 @@
+Transfer::Application.config.secret_key_base = '<ecf1ee2f85fcaa77f7e95652176fe90d130484de3948eed2cc407e5178c670063bc1c7dbda5a5c5bdd37b75c13333e07ec897e323f3590e4fb5da93a9b9fa09c>'
